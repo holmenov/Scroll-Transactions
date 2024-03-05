@@ -1,0 +1,13 @@
+{
+    "ethereum": {
+        "rpc": "https://rpc.ankr.com/eth",
+        "explorer": "https://etherscan.io/tx/",
+        "token": "ETH"
+    },
+    
+    "scroll": {
+        "rpc": "https://rpc.ankr.com/scroll",
+        "explorer": "https://scrollscan.com/tx/",
+        "token": "ETH"
+    }
+}
